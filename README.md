@@ -6,11 +6,13 @@ This bookmarklet allows you to installed any chrome extension that is disabled b
 1. **Create a Bookmark:**
    - Click the **"Add to Browser"** button below to quickly add this bookmarklet to your browser’s bookmarks bar.
    - Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) extension page.
-     ![image](https://github.com/user-attachments/assets/c3056281-492e-4893-87cd-eae70bb7b3b0)
+     ![image](https://github.com/user-attachments/assets/8e47aeec-09ed-411d-a496-b15ee21980c1)
+
 
 
    - Click the bookmark to enable the button.
-   !![image](https://github.com/user-attachments/assets/eef8e697-b414-4dde-9ba8-da3525d09ccb)
+   ![image](https://github.com/user-attachments/assets/6b41844f-3c80-4d46-b3b6-c32cb853acb6)
+
 
 
 ---
